@@ -5,7 +5,7 @@ Project 02 - Base Conversions
 ## Project Overview
 
 
-The Program builds a linus command line utility in C Programming.The Program conducts base 2,10, and 16 conversions(Decimal,HexDecimal, and Binary).The program also take in option flag as arguements. The -b option flag represents the bit width. Value given must fit into the necessary bit length for binaryand hexdecimal. The Program also has a range option flag -r.This flag will extact part of the binary based on the range given. From the right most significant bit to the left most significant. All while still fitting  into the specific bit length or defalut bit length 32. The program also provides conversions for both signed and unsigned numbers. 
+The Program builds a linux command line utility in C Programming.The Program conducts base 2,10, and 16 conversions(Decimal,HexDecimal, and Binary).The program also take in option flag as arguements. The -b option flag represents the bit width. Value given must fit into the necessary bit length for binaryand hexdecimal. The Program also has a range option flag -r.This flag will extact part of the binary based on the range given. From the right most significant bit to the left most significant. All while still fitting  into the specific bit length or defalut bit length 32. The program also provides conversions for both signed and unsigned numbers. 
 
 
 ## Funtions Prototypes 
